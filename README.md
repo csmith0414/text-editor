@@ -32,7 +32,7 @@ THEN I should have proper build scripts for a webpack application
 
 ![Text Editor](./images/screengrab.png)
 
-- Link to Text Editor: [Text Editor](###)
+- Link to Text Editor: [Text Editor](https://stark-headland-20389-95dd6820f1f9.herokuapp.com/)
 
 
 ## Usage
